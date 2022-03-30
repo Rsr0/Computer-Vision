@@ -1,11 +1,12 @@
 # Computer-Vision
 - Real-Time Hand Detection Applications
 
+------------------------
 ### Virtual Mouse App
 ![image](https://user-images.githubusercontent.com/51770809/160890086-0aae9911-4507-442f-ae48-1c7f8159373c.png)
 ![image](https://user-images.githubusercontent.com/51770809/160892613-5cd56a7d-0cea-4957-9f6c-4387c6ee7cda.png)
 
-
+-------------------------
 
 ### Virtual Paint App
 ![image](https://user-images.githubusercontent.com/51770809/160890671-f00841cd-30f3-45dd-8860-1d2ad7ed525d.png)
